@@ -38,7 +38,7 @@ html { font-size: 100%;
 	text-rendering: optimizelegibility; 
 }
 body {
-	color:#888089;
+	color:#494449;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
 	position:relative;
@@ -51,7 +51,7 @@ body {
 }
 a {
 	text-decoration:none;
-	color:#fff;
+	color:#423e3e;
 	outline:none;
 }
 img {
@@ -137,7 +137,7 @@ h5{
 }
 .heading{
 	text-align:center;
-	padding-bottom:70px;
+	padding-bottom:50px;
 }
 .heading .container{
 	padding-top:0px !important;
@@ -1028,7 +1028,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	background:#f8f8f8;
 }
 .footer .container{
-	padding:84px 0 0;
+	padding:64px 0 0;
 }
 
 .footer ul{
